@@ -24,7 +24,7 @@
 
 # Contribuir 📚
 
-Si deseas contribuir al proyecto, consulta la guía [CONTRIBUTING.md](CONTRIBUTING.md) antes de comenzar.
+Si deseas contribuir al proyecto, consulta la guía [CONTRIBUTING.md](https://github.com/Social-Wars/.github/blob/2de97bdd7cb9db6e6107dc1f9ca15545fef9643c/CONTRIBUTING.md) antes de comenzar.
 
 # Contribuidores:
 ## Desarrolladores:
